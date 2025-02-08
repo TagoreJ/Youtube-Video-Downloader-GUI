@@ -1,6 +1,4 @@
-Here is the provided content formatted in Markdown code:
 
-```markdown
 # 🎥 YouTube Video Downloader  
 
 🚀 A simple and efficient **YouTube Video Downloader** with a **GUI interface** built using `tkinter` and `yt-dlp`. This tool allows you to **download high-quality YouTube videos** with ease.  
@@ -18,22 +16,20 @@ Here is the provided content formatted in Markdown code:
 ## 🛠 Installation Guide  
 
 ### 1️⃣ Clone the Repository  
-```sh
+
 git clone https://github.com/your-username/youtube-video-downloader.git
 cd youtube-video-downloader
-```
+
 
 ### 2️⃣ Install Dependencies  
-```sh
+
 pip install -r requirements.txt
-```
+
 
 ### 3️⃣ Run the Application  
-```sh
-python main.py
-```
 
----
+python main.py
+
 
 ## 📂 Dependencies  
 - Python 3.8+ (Ensure you have it installed)  
@@ -42,14 +38,15 @@ python main.py
 - `shutil` (For file and storage management)  
 
 **Note:** If you face any issues with `yt-dlp`, try updating it using:  
-```sh
+
 pip install --upgrade yt-dlp
-```
+
 
 ---
 
 ## 📸 Screenshot  
-*(Add a screenshot of your GUI here to make the repo visually appealing!)*  
+## 📸 Screenshot  
+![YouTube Video Downloader](image.jpg)  
 
 ---
 
@@ -89,11 +86,11 @@ This project is open-source. Feel free to modify and improve it!
 **Tagore**  
 📌 Aspiring Company Secretary & MBA Student  
 📌 Passionate about tech, finance, and business research  
-📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/tagorej)  
 
 ---
 
 💡 If you like this project, don't forget to ⭐ star the repo! 😊  
 ``` 
 
-Replace `"your-username"` with your GitHub username and update your LinkedIn profile link if needed. 🚀
+
